@@ -1,5 +1,7 @@
-<h3>Responsive Admin Dashboard With Bootstrap 5</h3>
-<p>Youtube Channel https://www.youtube.com/channel/UC8c4OFeOvNGmUlHLfQb9TVg</p>
-<hr>
+It is a user-friendly leave management system designed for the college employees. The system utilizes RDBMS for efficient storage and retrieval of leave-related data, employee data and holiday lists.
 
-<img src="screenshot.png" />
+Multiple user roles, such as admin, employees, HOD and Principal, with appropriate accesspermissions.
+Provides an intuitive interface for employees to submit leave requests. 
+Implements a workflow for leave requests, allowing the Principal to approve/deny requests in a timely manner.
+Sends automatic email notifications to employees regarding the status of leave requests.
+Ensures secure user authentication mechanisms, including passwords and secure session management.
